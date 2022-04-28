@@ -1,0 +1,10 @@
+{
+  "Author": "Marto",
+  "Name": "Inventory Manager",
+  "Description": "Implements QoL changes in personal and retainer inventory management.",
+  "InternalName": "invManager",
+  "AssemblyVersion": "1.0.0.0",
+  "RepoUrl": "https://github.com/Maerto/InventoryManager",
+  "ApplicableVersion": "any",
+  "DalamudApiLevel": 4
+}
